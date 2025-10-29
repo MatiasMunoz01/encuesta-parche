@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de VSCode
+.vscode/
+
